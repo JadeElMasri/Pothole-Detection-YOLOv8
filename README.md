@@ -6,3 +6,32 @@ The outcome of this project could be useful in a diversity of resrearch or engin
 
 
 
+**Results**
+
+### 📊 Confusion Matrix
+
+![Confusion Matrix](results/confusion_matrix.png)
+
+
+
+The model correctly predicted **77%** of the potholes while **23%**  were predicted as background. 
+
+In addition to that, **100%** of the background was predicted as potholes. This proves the limitations exhibitted by the model
+
+
+
+
+**Limitations**:
+  The trained dataset had numerous pothole images with very limited clean road images. This explains the wrong predictions and the biasness of the model.
+
+
+**Future Work**
+  
+  Add more clean road imges to imorove the model's robustness and predictions.
+
+
+    
+
+
+  
+  
