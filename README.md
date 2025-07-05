@@ -1,8 +1,8 @@
 This repository represents a trained YOLOv8 object detection model on an Ubuntu 22 Core i9 PC
 
-The model uses Ultralytics YOLOv8
+The model uses **Ultralytics YOLOv8**
 
-![Confusion Matrix](yolov8n.pt)
+(ultralytics_yolo.png)
 
 
 
