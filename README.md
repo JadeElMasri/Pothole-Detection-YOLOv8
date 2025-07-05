@@ -2,7 +2,7 @@ This repository represents a trained YOLOv8 object detection model on an Ubuntu 
 
 The model uses Ultralytics YOLOv8
 
-![Confusion Matrix](runs/detect/train2/confusion_matrix_normalized.png)
+![Confusion Matrix](yolov8n.pt)
 
 
 
