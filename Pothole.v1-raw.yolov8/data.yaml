@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: /home/jade/Desktop/pothole_detection/Pothole.v1-raw.yolov8/train/images
+val: /home/jade/Desktop/pothole_detection/Pothole.v1-raw.yolov8/valid/images 
+test: /home/jade/Desktop/pothole_detection/Pothole.v1-raw.yolov8/test/images
 
 nc: 1
 names: ['pothole']
