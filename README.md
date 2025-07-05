@@ -1,3 +1,6 @@
+# Pothole Detection Using YOLOv8
+
+
 This repository represents a trained YOLOv8 object detection model on an Ubuntu 22 Core i9 PC
 
 The model uses **Ultralytics YOLOv8**
@@ -7,9 +10,10 @@ The model uses **Ultralytics YOLOv8**
 
 
 
-and was trained purely on the CPU using a custom dataset from Roboflow (https://public.roboflow.com/object-detection/pothole) + manually added background-only samples.   
+and was trained entirely on the CPU using a custom dataset from [Roboflow](https://public.roboflow.com/object-detection/pothole)
+ + manually added background-only samples.   
 
-The outcome of this project could be useful in a diversity of resrearch or engineering fields such as **Autonomous Vehicles**, **Smart City Initiatives**, **Traffic Monitoring** etc...
+The outcome of this project could be useful in a diversity of research or engineering fields such as **Autonomous Vehicles**, **Smart City Initiatives**, **Traffic Monitoring** etc...
 
 
 
@@ -37,7 +41,7 @@ In addition to that, **100%** of the background was predicted as potholes. This 
 
 
 **Future Work**:
-  - Add more clean road images to imorove the model's robustness and predictions.
+  - Add more clean road images to improve the model's robustness and predictions.
   - Retrain the model and assess performance
 
 
