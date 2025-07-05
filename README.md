@@ -8,7 +8,6 @@ The outcome of this project could be useful in a diversity of resrearch or engin
 
 **Results**
 
-### 📊 Confusion Matrix
 
 ### 📊 Confusion Matrix
 
