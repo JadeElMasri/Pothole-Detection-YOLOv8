@@ -18,7 +18,7 @@ The outcome of this project could be useful in a diversity of resrearch or engin
 **Results**
 
 
-### 📊 Confusion Matrix
+### Confusion Matrix
 
 ![Confusion Matrix](runs/detect/train2/confusion_matrix_normalized.png)
 
@@ -37,7 +37,8 @@ In addition to that, **100%** of the background was predicted as potholes. This 
 
 
 **Future Work**:
-  Add more clean road imges to imorove the model's robustness and predictions.
+  - Add more clean road imges to imorove the model's robustness and predictions.
+  - Retrain the model and assess performance
 
 
     
