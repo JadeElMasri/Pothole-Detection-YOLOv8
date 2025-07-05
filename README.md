@@ -10,8 +10,7 @@ The model uses **Ultralytics YOLOv8**
 
 
 
-and was trained entirely on the CPU using a custom dataset from [Roboflow](https://public.roboflow.com/object-detection/pothole)
- + manually added background-only samples.   
+and was trained entirely on the CPU using a custom dataset from [Roboflow](https://public.roboflow.com/object-detection/pothole) + manually added background-only samples.   
 
 The outcome of this project could be useful in a diversity of research or engineering fields such as **Autonomous Vehicles**, **Smart City Initiatives**, **Traffic Monitoring** etc...
 
