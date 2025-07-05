@@ -2,7 +2,7 @@ This repository represents a trained YOLOv8 object detection model on an Ubuntu 
 
 The model uses **Ultralytics YOLOv8**
 
-(ultralytics_yolo.png)
+![Ultralytics](ultralytics_yolo.png)
 
 
 
