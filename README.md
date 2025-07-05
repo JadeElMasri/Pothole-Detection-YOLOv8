@@ -10,7 +10,7 @@ The model uses **Ultralytics YOLOv8**
 
 
 
-and was trained entirely on the CPU using a custom dataset from [Roboflow](https://public.roboflow.com/object-detection/pothole) + manually added background-only samples.   
+and was trained entirely on the CPU using **YOLOV8n** and **50 epochs** and  a custom dataset from [Roboflow](https://public.roboflow.com/object-detection/pothole) + manually added background-only samples.   
 
 The outcome of this project could be useful in a diversity of research or engineering fields such as **Autonomous Vehicles**, **Smart City Initiatives**, **Traffic Monitoring** etc...
 
@@ -30,7 +30,7 @@ The outcome of this project could be useful in a diversity of research or engine
 
 The model correctly predicted **77%** of the potholes while **23%** were predicted as background. 
 
-In addition to that, **100%** of the background was predicted as potholes. This proves the limitations exhibited by the model
+In addition to that, All background-only images were misclassified as potholes, highlighting the model's bias due to limited clean road data.
 
 
 
