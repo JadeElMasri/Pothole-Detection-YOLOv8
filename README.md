@@ -10,7 +10,10 @@ The outcome of this project could be useful in a diversity of resrearch or engin
 
 ### 📊 Confusion Matrix
 
-runs/detect/train2/confusion_matrix_normalized.png
+### 📊 Confusion Matrix
+
+![Confusion Matrix](runs/detect/train2/confusion_matrix_normalized.png)
+
 
 
 
